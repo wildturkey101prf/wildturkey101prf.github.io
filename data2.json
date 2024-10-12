@@ -1,0 +1,29 @@
+[
+    {
+      id : 4,
+      name : "AE카리나",
+      age : "24",
+      nationality : '한국'
+    },
+  
+    {
+      id : 5,
+      name : "AE윈터",
+      age : "23",
+      nationality : '한국'
+    },
+  
+    {
+      id : 6,
+      name : "AE지젤",
+      age : "23",
+      nationality : '일본'
+    },
+
+    {
+     id : 7,
+     name : "AI닝닝",
+     age : "21",
+     nationality : '중국'
+    }
+  ] 
